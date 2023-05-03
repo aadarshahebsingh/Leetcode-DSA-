@@ -1,0 +1,20 @@
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        if(s.length()!=t.length()){
+            return false;
+        }
+        vector<char> str1(s.begin(),s.end());
+        vector<char> str2(t.begin(),t.end());
+        vector<int> alphab(26,0);
+        for(auto c:str1){
+            alphab[c-'a']++;
+        }
+        for(auto c: str2){
+            alphab[c-'a']--;
+            if(alphab[c-'a']<0){
+                return false;
+            }
+        }return true;
+    }
+};
