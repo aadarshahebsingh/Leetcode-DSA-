@@ -1,0 +1,48 @@
+class Solution {
+public:
+    bool search(vector<int>& nums, int target) {
+        int s=0;
+        int e=nums.size()-1;
+        // if(nums.size()<=1){
+        //     for(int i=0;i<=1;i++){
+        //         if(nums[i]==target){
+        //             return true;
+        //         }
+        //     }return false;
+        // }
+        while(s<=e){
+            int mid=(s+e)/2;
+            if(nums[mid]==target){
+                return true;
+            }
+            if(nums[s]==nums[mid] and nums[mid]==nums[e]){
+                s++;
+                e--;
+            }
+            else if(nums[s]<=nums[mid]){
+                // line one
+                if(target>=nums[s] and target<=nums[mid]){
+                    e=mid-1;
+                }
+                else{
+                    s=mid+1;
+                }
+            }
+            else{
+                // line two
+                // if(nums[e]==nums[mid]){
+                //     if(target>nums[mid]){
+                //         e=mid-1;
+                //         s=mid+1;
+                //     }
+                // }
+                if(target>=nums[mid] and target<=nums[e]){
+                    s=mid+1;
+                }
+                else{
+                    e=mid-1;
+                }
+            }
+        }return false;
+    }
+};
