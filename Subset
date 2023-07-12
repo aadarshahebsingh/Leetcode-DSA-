@@ -1,0 +1,21 @@
+class Solution {
+public:
+    vector<vector<int>> ans;
+    void helper(vector<int> temp,vector<int> a,int i){
+        if(a.size()==i){
+            ans.push_back(temp);
+            return;
+        }
+        temp.push_back(a[i]);
+        helper(temp,a,i+1);
+        temp.pop_back();
+        helper(temp,a,i+1);
+        return;
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<int> temp;
+        int i=0;
+        helper(temp,nums,i);
+        return ans;
+    }
+};
