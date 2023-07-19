@@ -1,0 +1,71 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+// class Solution {
+
+class Solution {
+public:
+    ListNode* change(ListNode* &one,ListNode* &two){
+        if(one->next==NULL){
+
+            cout<<one->val<<endl;
+            one->next=two;
+            return one;
+        }
+        ListNode* prev=one;
+        ListNode* curr=one->next;
+        ListNode* sec=two;
+        ListNode* next2=two;
+        while(one->next!=NULL and sec!=NULL){
+            cout<<sec->val<<endl;
+            if((sec->val>=prev->val) and (sec->val<=curr->val)){
+                // cout<<prev->val<<endl;
+                prev->next=sec;
+                next2=sec->next;
+                sec->next=curr;
+            // cout<<one->val<<endl;
+                sec=next2;
+                prev=prev->next;
+            // cout<<sec->val<<endl;
+            // cout<<curr->val<<endl;
+            }
+            else if(sec->val>=curr->val){
+            
+                prev=curr;
+                curr=curr->next;
+                // cout<<curr->val<<endl;
+                cout<<prev->val<<endl;
+                if(curr==NULL){
+
+                    prev->next=sec;
+                    return curr;
+                }   
+            }
+        }
+        return one;
+    }
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+
+        if(list1==NULL)
+            return list2;
+        if(list2==NULL)
+            return list1;
+        // ListNode* ans;
+        if(list1->val<=list2->val){
+            change(list1,list2);
+            return list1;
+        }
+        else if(list2->val<list1->val){
+            change(list2,list1);
+            return list2;
+        }
+        return list1;
+    }
+};
