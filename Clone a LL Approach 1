@@ -1,0 +1,69 @@
+/*
+// Definition for a Node.
+class Node {
+public:
+    int val;
+    Node* next;
+    Node* random;
+    
+    Node(int _val) {
+        val = _val;
+        next = NULL;
+        random = NULL;
+    }
+};
+*/
+
+
+
+class Solution {
+private:
+    void insertAtTail(Node* &head,Node* &tail,int data){
+        Node* newnode=new Node(data);
+        if(head==NULL){
+            // head->val=data;
+            // tail=head-next;
+            head=newnode;
+            tail=newnode;
+            // return ;
+        }
+        else{
+            tail->next=newnode;
+            tail=newnode;
+            // return;
+        }
+    }
+public:
+    Node* copyRandomList(Node* head) {
+        Node* cloneHead=NULL;
+        Node* cloneTail=NULL;
+
+        Node* temp=head;
+        while(temp != NULL){
+            insertAtTail(cloneHead,cloneTail,temp->val);
+            temp=temp->next;
+        }
+
+        // Step 1 is completed till now i.e., we have made a new node and next is pointing
+        // to next node
+        unordered_map<Node*,Node*> oldToNew;
+        Node* originalNode=head;
+        Node* cloneNode = cloneHead;
+        while(originalNode!=NULL and cloneNode!=NULL){
+            oldToNew[originalNode]=cloneNode;
+            originalNode=originalNode->next;
+            cloneNode=cloneNode->next;
+        }
+        // return cloneHead;
+        // mapping complete ho chuka h abhi tk
+        originalNode=head;
+        cloneNode=cloneHead;
+        while(originalNode!=NULL and cloneNode!=NULL){
+            cloneNode->random=oldToNew[originalNode->random];
+            originalNode=originalNode->next;
+            cloneNode=cloneNode->next;
+        }
+        return cloneHead;
+
+    }
+};
