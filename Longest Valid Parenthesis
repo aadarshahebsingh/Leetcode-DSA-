@@ -1,0 +1,42 @@
+class Solution {
+public:
+    int longestValidParentheses(string s) {
+        // if(s.length()==0 or s.length()==1)
+        //     return 0;
+        // int cnt=0;
+        // stack<char> st;
+        // for(int i=0;i<s.length();i++){
+        //     char ch=s[i];
+        //     if(ch=='('){
+        //         st.push(ch);
+        //     }
+        //     else{
+        //         if(st.empty()){
+        //             continue;
+        //         }
+        //         cnt+=2;
+        //         st.pop();
+        //     }
+        // }return cnt;
+    int maxLen = 0;
+    stack<int> st;
+    st.push(-1); // To handle the case when the first character is ')'
+
+    for (int i = 0; i < s.length(); ++i) {
+        if (s[i] == '(') {
+            st.push(i);
+        } else { // s[i] == ')'
+            st.pop();
+            if (st.empty()) {
+                st.push(i); // Update the new starting index for the next valid substring
+            } else {
+                maxLen = max(maxLen, i - st.top());
+            }
+        }
+    }
+
+    return maxLen;
+        
+
+    }
+};
