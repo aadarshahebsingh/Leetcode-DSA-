@@ -1,0 +1,27 @@
+vector<int> nextSmallerElement(vector<int> &arr, int n)
+{
+    // Write your code here.
+    vector<int> vec;
+    if(n==0 or n==1){
+        vec.push_back(-1);
+        return vec;
+    }
+    int i;
+    for( i=0;i<n-1;i++){
+        int ele=arr[i];
+
+        for(int j=i;j<n;j++){
+            if(ele>arr[j]){
+                // cout<<"hello"<<endl;
+                vec.push_back(arr[j]);
+                break;
+            }
+            else if(j==n-1){
+                vec.push_back(-1);
+                continue;
+            }
+        }
+    }
+    vec.push_back(-1);
+    return vec;
+}
