@@ -1,0 +1,24 @@
+class Solution {
+public:
+    bool check(string str,int start,int end){
+        while(start<=end){
+            if(str.at(start) == str.at(end)){
+                start++;
+                end--;
+            }else return  false;
+        }
+        return true;
+    }
+    bool validPalindrome(string s) {
+        int start=0,end=s.size()-1;
+        while(start<=end){
+            if(s.at(start) == s.at(end)){
+                start++;
+                end--;
+            }
+            else {
+                return check(s,start+1,end) or check(s,start,end-1);
+            }
+        }return true;
+    }
+};
