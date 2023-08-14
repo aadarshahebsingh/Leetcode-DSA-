@@ -1,0 +1,23 @@
+queue<int> modifyQueue(queue<int> q, int k) {
+    if(q.size()==0 or q.size()==1)return q;
+    // add code here.
+    queue<int> temp;
+    stack<int> st;
+    int i=0;
+    while(i<k){
+        // cout<<"hello"<<endl;
+        st.push(q.front());
+        q.pop();
+        i++;
+    }
+    while(st.size()>0){
+        // cout<<"hello"<<endl;
+        temp.push(st.top());
+        st.pop();
+    }
+    while(q.size()>0){
+        temp.push(q.front());
+        q.pop();
+    }
+    return temp;
+}
