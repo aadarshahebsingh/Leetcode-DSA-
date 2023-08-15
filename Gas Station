@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
+        int totalGain=0,ans=0,currGain=0;
+        for(int  i=0;i<gas.size();i++){
+            // if(gas[i]-cost[i]>0)return i;
+            totalGain=totalGain+gas[i]-cost[i];
+
+            currGain=currGain+gas[i]-cost[i];
+
+            if(currGain<0){
+                ans= i+1;
+                currGain=0;
+            }
+
+        }
+        // return -1;
+        return totalGain>=0?ans:-1;
+    }
+};
