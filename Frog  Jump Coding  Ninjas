@@ -1,0 +1,55 @@
+// Approach  1
+vector<int> dp(n, -1);
+    // int ans = helper(n - 1, heights, dp);
+    dp[0]=0;
+    for(int i=1;i<n;i++){
+        int left,right=INT_MAX;
+        left=dp[i-1]+abs(heights[i]-heights[i-1]);
+        if(i>1)right=dp[i-2]+abs(heights[i]-heights[i-2]);
+        dp[i]=min(left,right);
+    }
+    return dp[n-1];
+
+// Approach 2
+
+#include <bits/stdc++.h>
+#include <algorithm>
+int helper(int n, vector<int>& arr, vector<int>& dp)
+{
+    if (n == 0)
+        return 0;
+    if (dp[n] != -1)
+        return dp[n];
+    int left = INT_MAX, right = INT_MAX;
+    left = helper(n - 1, arr, dp) + abs(arr[n] - arr[n - 1]);
+    if (n > 1)
+        right = helper(n - 2, arr, dp) + abs(arr[n] - arr[n - 2]);
+    return dp[n] = min(left, right);
+}
+int frogJump(int n, vector<int> &heights)
+{
+    // Write your code here.
+    vector<int> dp(n, -1);
+    int ans = helper(n - 1, heights, dp);
+    return ans;
+}
+
+// Space  Optimised  solution 
+
+
+#include <bits/stdc++.h>
+#include <algorithm>
+int frogJump(int n, vector<int> &heights)
+{
+    int prev2=0,prev=0,curr;
+    for(int i=1;i<n;i++){
+        int left,right=INT_MAX;
+        left=prev+abs(heights[i]-heights[i-1]);
+        if(i>1)right=prev2+abs(heights[i]-heights[i-2]);
+        // dp[i]=min(left,right);
+        curr=min(left,right);
+        prev2=prev;
+        prev=curr;
+    }
+    return prev;
+}
