@@ -1,0 +1,38 @@
+Approach 1
+
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        int cnt=1,index=1,n=nums.size();
+        for(int i=1;i<n;i++){
+            if(nums[i]==nums[i-1]){
+                cnt++;
+                if(cnt<=2){
+                    nums[index]=nums[i];
+                    index++;
+                }
+            }
+            else{
+                cnt=1;
+                nums[index]=nums[i];
+                index++;
+            }
+        }return index;
+    }
+};
+
+
+Approach 2
+
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        int index=0;
+        for(auto x:nums){
+            if(index<2 or x>nums[index-2]){
+                nums[index]=x;
+                index++;
+            }
+        }return index;
+    }
+};
