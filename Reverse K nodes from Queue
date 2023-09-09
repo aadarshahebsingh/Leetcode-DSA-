@@ -1,0 +1,22 @@
+queue<int> modifyQueue(queue<int> q, int k) {
+    // add code here.
+    stack<int> arr;
+    int x=q.size()-k;
+    while(k>0){
+        arr.push(q.front());
+        q.pop();
+        k--;
+    }
+    while(arr.size()>0){
+        // cout<<arr.top()<<" ";
+        q.push(arr.top());
+        arr.pop();
+    }
+    while(x>0){
+        int ele=q.front();
+        q.push(ele);
+        q.pop();
+        x--;
+    }
+    return q;
+}
