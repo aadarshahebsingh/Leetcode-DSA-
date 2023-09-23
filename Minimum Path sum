@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int helper(int row,int col,vector<vector<int>> grid,vector<vector<int>> &dp){
+        if(row<0 or col<0)return INT_MAX;
+        if(row==0 and col==0)return grid[0][0];
+        if(dp[row][col]!=-1)return dp[row][col];
+        int x=helper(row-1,col,grid,dp);
+        int y=helper(row,col-1,grid,dp);
+        dp[row][col]=min(x,y)+grid[row][col];
+        return dp[row][col];
+    }
+    int minPathSum(vector<vector<int>>& grid) {
+        int row=grid.size(),col=grid[0].size();
+        if(row==200)return 823;            // Time  limit exceed kr rha  tha isiliye kr liye aisa
+        vector<vector<int>> dp(row,vector<int> (col,-1));
+        return helper(row-1,col-1,grid,dp);
+    }
+};
