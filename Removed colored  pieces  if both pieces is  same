@@ -1,0 +1,12 @@
+class Solution {
+public:
+    bool winnerOfGame(string colors) {
+        if(colors.length()<=2)return false;
+        int alice=0,bob=0;
+        for(int  i=0;i<colors.length()-2;i++){
+            if(colors[i]=='A' and colors[i+1]=='A' and colors[i+2]=='A')alice++;
+            else if(colors[i]=='B' and colors[i+1]=='B' and colors[i+2]=='B')bob++;
+        }
+        return alice>bob;
+    }
+};
