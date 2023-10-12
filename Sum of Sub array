@@ -1,0 +1,29 @@
+// Sum of Sub Arrays in O(N) time complexity 
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+int sumOfSub(vector<int> arr){
+    int ans=0,n=arr.size();
+    for(int i=0;i<arr.size();i++){
+        ans+=arr[i]*((i+1)*(n-i));
+    }
+    return ans;
+}
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
+    int n;
+    cin>>n;
+    vector<int> arr;
+    for(int i=0;i<n;i++){
+        int x;
+        cin>>x;
+        arr.push_back(x);
+    }
+    cout<<sumOfSub(arr)<<endl;
+    
+    return 0;
+}
