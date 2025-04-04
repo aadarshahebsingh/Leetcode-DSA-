@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
 |  |
@@ -96,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
