@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2262-solving-questions-with-brainpower) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3001-apply-operations-to-maximize-score) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
