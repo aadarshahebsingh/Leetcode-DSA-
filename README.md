@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0868-push-dominoes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Breadth-First Search
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Tree
 |  |
