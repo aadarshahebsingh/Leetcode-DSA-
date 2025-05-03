@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3001-apply-operations-to-maximize-score) |
