@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3321-type-of-triangle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0868-push-dominoes) |
+| [3194-find-words-containing-character](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3637-count-number-of-balanced-permutations) |
 ## Tree
