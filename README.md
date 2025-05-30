@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Binary Tree
 |  |
 | ------- |
