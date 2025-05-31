@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1293-three-consecutive-odds](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1753-path-with-minimum-effort](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -155,15 +157,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1753-path-with-minimum-effort](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0200-number-of-islands) |
+| [1753-path-with-minimum-effort](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1753-path-with-minimum-effort](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1753-path-with-minimum-effort](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Binary Tree
 |  |
@@ -241,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1753-path-with-minimum-effort](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
