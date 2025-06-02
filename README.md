@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0416-partition-equal-subset-sum) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
