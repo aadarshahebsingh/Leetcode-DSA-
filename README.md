@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -326,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
