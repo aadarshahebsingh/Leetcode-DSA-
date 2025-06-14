@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3201-distribute-candies-among-children-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Monotonic Stack
