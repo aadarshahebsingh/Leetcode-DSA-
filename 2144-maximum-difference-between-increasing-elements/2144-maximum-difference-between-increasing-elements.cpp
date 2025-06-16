@@ -1,20 +1,21 @@
-// [5,4,3]   -1
-// [9,4,3,2]
-
-// [7,11,5,4,2,7]
-
-
 class Solution {
 public:
     int maximumDifference(vector<int>& nums) {
-        int minimumElement=nums[0],maximumDifference=-1,n=nums.size();
+        
+        int n=nums.size();
+        vector<int> suffixArray(n,0);
 
-        for(int index=1;index<n;index++){
-            if(nums[index]>minimumElement){
-                maximumDifference=max(maximumDifference,nums[index]-minimumElement);
-            }
-            else{
-                minimumElement=nums[index];
+        int maximumElement=0;
+
+        for(int index=n-1;index>=0;index--){
+            suffixArray[index]=maximumElement;
+            maximumElement=max(nums[index],maximumElement);
+        }
+
+        int maximumDifference=-1;
+        for(int index=0;index<n;index++){
+            if(suffixArray[index]>nums[index]){
+                maximumDifference=max(maximumDifference,suffixArray[index]-nums[index]);
             }
         }
         return maximumDifference;
