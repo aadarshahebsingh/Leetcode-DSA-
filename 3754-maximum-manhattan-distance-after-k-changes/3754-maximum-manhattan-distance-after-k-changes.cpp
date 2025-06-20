@@ -1,25 +1,32 @@
+
+
+
+
+
 class Solution {
 public:
     int maxDistance(string s, int k) {
-        int ans=0,dist=0;
-        int north=0,south=0,east=0,west=0;
+        int ans=0,north=0,south=0,east=0,west=0;
         for(int i=0;i<s.length();i++){
-            if(s[i]=='N')north++;
-            else if(s[i]=='S')south++;
-            else if(s[i]=='E')east++;
-            else west++;
+            char c=s[i];
+            if(c=='N')north++;
+            else if(c=='S')south++;
+            else if(c=='W')west++;
+            else east++;
 
-            int l=i+1;
+            int canPairs=min(north,south)+min(east,west);
 
-            int diff=min(north,south)+min(east,west);
-            if(diff<=k)dist=l;
-            else{
-                int temp=l-2*diff;
-                dist=temp+2*k;
+            int distHealedByk=0;
+            int distanceTillNow=i+1;
+            if(canPairs<=k){
+                distHealedByk=distanceTillNow;
             }
-            ans=max(ans,dist);
+            else{
+                int distCanBeAffected=distanceTillNow-2*canPairs;
+                distHealedByk=distCanBeAffected+2*k;
+            }
+            ans=max(distHealedByk,ans);
         }
         return ans;
-
     }
 };
