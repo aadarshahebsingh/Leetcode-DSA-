@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxDistance(string s, int k) {
-        int result=0;
+        int ans=0,dist=0;
         int north=0,south=0,east=0,west=0;
         for(int i=0;i<s.length();i++){
             if(s[i]=='N')north++;
@@ -9,14 +9,17 @@ public:
             else if(s[i]=='E')east++;
             else west++;
 
-            int xCoor=abs(south-north);
-            int yCoor=abs(east-west);
+            int l=i+1;
 
-            int manDis=xCoor+yCoor;
-            int dist=manDis+min(2*k,i+1-manDis);
-            result=max(result,dist);
+            int diff=min(north,south)+min(east,west);
+            if(diff<=k)dist=l;
+            else{
+                int temp=l-2*diff;
+                dist=temp+2*k;
+            }
+            ans=max(ans,dist);
         }
-        return result;
+        return ans;
 
     }
 };
