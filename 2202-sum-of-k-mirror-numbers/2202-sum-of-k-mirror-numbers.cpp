@@ -1,46 +1,52 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
-    long long createPalindrome(long long num, bool odd) {
-        long long x = num;
-        if (odd) x /= 10;
-        while (x > 0) {
-            num = num * 10 + x % 10;
-            x /= 10;
+    long long createPalindrome(long long n, bool odd) {
+        long long res = n;
+        if (odd) n /= 10;
+        while (n > 0) {
+            res = res * 10 + n % 10;
+            n /= 10;
         }
-        return num;
+        return res;
     }
 
-    bool isPalindrome(long long num, int base) {
-        vector<int> digits;
-        while (num > 0) {
-            digits.push_back(num % base);
-            num /= base;
+    bool checkPalindrome(long long n, int base) {
+        string str = "";
+        while (n > 0) {
+            str += to_string(n % base);
+            n /= base;
         }
-        int i = 0, j = digits.size() - 1;
-        while (i < j) {
-            if (digits[i++] != digits[j--]) return false;
+        int left = 0, right = str.length() - 1;
+        while (left < right) {
+            if (str[left] != str[right]) return false;
+            left++;
+            right--;
         }
         return true;
     }
 
     long long kMirror(int k, int n) {
-        long long sum = 0;
-        for (long long len = 1; n > 0; len *= 10) {
-            for (long long i = len; n > 0 && i < len * 10; i++) {
-                long long p = createPalindrome(i, true);
-                if (isPalindrome(p, k)) {
-                    sum += p;
+        long long ans = 0;
+        for (int i = 1; n > 0; i *= 10) {
+            for (int j = i; n > 0 && j < i * 10; j++) {
+                long long p = createPalindrome(j, true);
+                if (checkPalindrome(p, k)) {
+                    ans += p;
                     n--;
                 }
             }
-            for (long long i = len; n > 0 && i < len * 10; i++) {
-                long long p = createPalindrome(i, false);
-                if (isPalindrome(p, k)) {
-                    sum += p;
+            for (int j = i; n > 0 && j < i * 10; j++) {
+                long long p = createPalindrome(j, false);
+                if (checkPalindrome(p, k)) {
+                    ans += p;
                     n--;
                 }
             }
         }
-        return sum;
+        return ans;
     }
 };
