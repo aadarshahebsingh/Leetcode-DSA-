@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1753-path-with-minimum-effort) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
