@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1500-count-largest-group](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1500-count-largest-group) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
