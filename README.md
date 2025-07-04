@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -400,4 +402,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
