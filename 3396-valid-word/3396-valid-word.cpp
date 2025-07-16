@@ -1,24 +1,23 @@
 class Solution {
 public:
-    bool isValid(string s) {
-        int n = s.length();
-        if (n < 3) return false;
+    bool isValid(string word) {
+        if(word.size()<3)return false;
+        int vowel=0,consonent=0;
 
-        int vowels = 0, consonants = 0;
-        string vowelList = "aeiouAEIOU";
-
-        for (char c : s) {
-            if (isalpha(c)) {
-                if (vowelList.find(c) != string::npos) {
-                    vowels++;
-                } else {
-                    consonants++;
+        string vo="aeiouAEIOU";
+        for(auto c:word){
+            if(isalpha(c)){
+                if(vo.find(c)!=string::npos){
+                    vowel++;
                 }
-            } else if (!isdigit(c)) {
-                return false; // invalid character
+                else consonent++;
+            }
+            else{
+                if(!isdigit(c)){
+                    return false;
+                }
             }
         }
-
-        return vowels >= 1 && consonants >= 1;
+        return vowel&&consonent;
     }
 };
