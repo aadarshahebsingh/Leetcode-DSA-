@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1293-three-consecutive-odds](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0368-largest-divisible-subset) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1500-count-largest-group) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0594-longest-harmonious-subsequence) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1983-maximum-population-year](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1983-maximum-population-year) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2915-count-of-interesting-subarrays) |
