@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Monotonic Stack
 |  |
 | ------- |
