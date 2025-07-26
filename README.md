@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0525-contiguous-array](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0945-snakes-and-ladders) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0525-contiguous-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1983-maximum-population-year](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1983-maximum-population-year) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
