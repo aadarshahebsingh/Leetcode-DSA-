@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2215-finding-3-digit-even-numbers) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0525-contiguous-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1983-maximum-population-year](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1983-maximum-population-year) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3639-zero-array-transformation-i) |
