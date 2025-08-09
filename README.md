@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0368-largest-divisible-subset) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
