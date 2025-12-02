@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3639-zero-array-transformation-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3548-find-the-count-of-good-integers](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -487,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/aadarshahebsingh/Leetcode-DSA-/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
